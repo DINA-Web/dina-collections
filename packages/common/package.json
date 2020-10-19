@@ -30,7 +30,7 @@
     "json-schema-faker": "^0.4.4",
     "moment": "^2.22.2",
     "normalizr": "^3.2.4",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "object-path-immutable": "^1.0.1",
     "performance-now": "^2.1.0",
     "reselect": "^3.0.1",
