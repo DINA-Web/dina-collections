@@ -49,7 +49,7 @@
     "memoize-one": "^4.0.0",
     "moment": "^2.22.0",
     "mousetrap": "^1.6.2",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "object-path-immutable": "^1.0.1",
     "prettier": "1.16.4",
     "prop-types": "^15.6.0",
